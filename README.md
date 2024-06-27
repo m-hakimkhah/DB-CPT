@@ -1,5 +1,7 @@
 How to train
+
 Step1
+
 change the parameter settings accroding to your directory (within config_merge.py)
 
 Step2

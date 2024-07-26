@@ -9,7 +9,7 @@ make your dataset json file with ( json_extract.py)
 change the parameter settings accroding to your directory (within config_merge.py)
 
 ## Step2
-Network Training DBCPTNN()
+DBCPTNN() Network Training
 
 Run main.py to begin network training 
 

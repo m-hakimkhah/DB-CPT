@@ -2,20 +2,18 @@
 
 ## Step0
 
-make your dataset json file with ( json_extract.py)
+make your dataset json file (with json_extract.py).
 
 ## Step1
 
-change the parameter settings accroding to your directory (within config_merge.py)
+change the parameter settings accroding to your directory (with config_merge.py).
 
 ## Step2
-DBCPTNN() Network Training
 
-Run main.py to begin network training 
+Run main.py to begin network training.
 
-solver_merge.py and train_merge.py contain detailed training process
+solver_merge.py and train_merge.py contain details of the training process.
 
 # How to Test:
 
-## Run enhance.py to Test and enhance the noisy speech samples.
-enhance.py 
+Run enhance.py to Test and enhance the noisy speech samples.

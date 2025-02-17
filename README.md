@@ -3,6 +3,7 @@
 ## Step0
 
 make your dataset json file (with json_extract.py).
+For the VoiceBank-DEMAND dataset, the json file is uploaded to the "json" folder.
 
 ## Step1
 

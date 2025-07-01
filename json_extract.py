@@ -30,5 +30,5 @@ def json_ext(path, flag):
         json.dump(data_list, f, indent=4)
 
 file_path = '/content/drive/MyDrive/NetworkHakim/train/clean_trainset_28spk_wav'
-#json_ext(file_path, flag='train')
-json_ext(file_path, flag='cv')
+json_ext(file_path, flag='train')
+#json_ext(file_path, flag='cv')

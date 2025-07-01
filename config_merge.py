@@ -19,6 +19,6 @@ lr = 5e-4
 model_best_path = r"C:\Users\Admin\Downloads\codes\DB_CPT\BEST_MODEL\XXX.pth.tar"
 check_point_path = r"C:\Users\Admin\Downloads\codes\DB_CPT\CP_dir\XXX"
 
-#os.makedirs(r"C:\Users\Admin\Downloads\codes\DB_CPT\BEST_MODEL", exist_ok=True)
-#os.makedirsr"'C:\Users\Admin\Downloads\codes\DB_CPT\LOSS", exist_ok=True)
-#os.makedirs(check_point_path, exist_ok=True)
+os.makedirs(model_best_path, exist_ok=True)
+os.makedirs(r"C:\Users\Admin\Downloads\codes\DB_CPT\LOSS", exist_ok=True)
+os.makedirs(check_point_path, exist_ok=True)
